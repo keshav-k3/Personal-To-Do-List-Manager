@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606237017 source:d:\content\codebprograms\my to do list\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
